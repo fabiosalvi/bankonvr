@@ -1,0 +1,10 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# project external deps
+node_modules
+bower_components
+
+# webstom project files
+.idea/

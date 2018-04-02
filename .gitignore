@@ -6,5 +6,5 @@ Thumbs.db
 node_modules
 bower_components
 
-# webstom project files
-.idea/
+# webstorm project files
+.idea/ 

@@ -1,8 +1,7 @@
-## Bank on VR demo
+## Bankon VR demo scenario
+Made with React and A-frame (version 0.5.0) .
 
-Made with React and A-frame.
-
-Live deply: www.bankonvr.com
+Live deploy: www.bankonvr.com
 
 ### Installation
 
